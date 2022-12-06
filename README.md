@@ -1,1 +1,1 @@
-# fashioncaption-dataset
+# FACAD170K dataset
