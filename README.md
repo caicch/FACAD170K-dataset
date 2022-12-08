@@ -2,7 +2,7 @@
 Attribute conditioned fashion image captioning [paper](https://ieeexplore.ieee.org/document/9897417).
 
 ## Dataset:
-The [dataset](https://drive.google.com/file/d/1JyNN3eNyDuvyAcsxvTsh-CIBy3OkMTHr/view?usp=share_link) .json file can be downloaded from this link. The fashion images can be downloaded using the URL link in the JSON file.
+The FACAD170K [dataset](https://drive.google.com/file/d/1JyNN3eNyDuvyAcsxvTsh-CIBy3OkMTHr/view?usp=share_link) .json file can be downloaded from this link. The fashion images can be downloaded using the URL link in the JSON file.
 
 ## License:
 Following existing [paper](https://arxiv.org/abs/2008.02693) with [xuewyang/Fashion_Captioning](https://github.com/xuewyang/Fashion_Captioning) 
