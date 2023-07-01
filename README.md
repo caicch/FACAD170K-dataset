@@ -1,5 +1,6 @@
 # ACC
 Attribute conditioned fashion image captioning [paper](https://ieeexplore.ieee.org/document/9897417).
+I will upload the code soon
 
 ## Dataset:
 The FACAD170K [dataset](https://drive.google.com/file/d/1JyNN3eNyDuvyAcsxvTsh-CIBy3OkMTHr/view?usp=share_link) .json file can be downloaded from this link. The fashion images can be downloaded using the URL link in the JSON file.
