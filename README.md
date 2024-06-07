@@ -1,5 +1,6 @@
 # ACC
-Towards Attribute-Controlled Fashion Image Captioning [paper](https://dl.acm.org/doi/abs/10.1145/3671000)(https://ieeexplore.ieee.org/document/9897417).
+Towards Attribute-Controlled Fashion Image Captioning [paper](https://dl.acm.org/doi/abs/10.1145/3671000).
+[paper](https://ieeexplore.ieee.org/document/9897417)
 
 Run python train_ACC.py for fashion image only captioning
 
